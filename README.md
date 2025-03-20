@@ -54,7 +54,7 @@ blob/main/ControlNet/Pixel.png?raw=true)
 
 <!-- Code -->
 
-debug console Sample 'Debug.log("--")'
+debug console Sample `Debug.log("--")`
 
 ```C#
 Debug.log("--")
