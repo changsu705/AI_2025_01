@@ -29,7 +29,7 @@ MarkDown 내용 정리
 * 아이템 1
 * 아이템 2
 
-<!-- Nubered List -->
+<!-- Numbered List -->
 숫자 리스트 :
 1. 숫자 1
 2. 숫자 2
@@ -39,8 +39,7 @@ MarkDown 내용 정리
 Click [My Git Hub](https://github.com/내주소)
 
 <!-- Image -->
-![image](https://github.com/shingugitvr000/AI_Project/
-blob/main/ControlNet/Pixel.png?raw=true)
+![image](https://github.com/changsu705/AI_2025_01/blob/main/00001-3658578828.png?raw=true)
 
 <!-- Table -->
 
