@@ -39,7 +39,6 @@ MarkDown 내용 정리
 Click [My Git Hub](https://github.com/내주소)
 
 <!-- Image -->
-![image](https://github.com/changsu705/AI_2025_01/blob/main/00001-3658578828.png?raw=true)
 
 <!-- Table -->
 
@@ -63,3 +62,15 @@ Debug.log("--")
 - [x] #739
 - [ ] https://github.com
 - [ ] add
+
+## IMG2IMG
+
+>Prompt
+
+*Digital painting of A young woman with light yellow dress sitting next to a brick window reading a book by Stanley Artgerm Lau, artstation, 8k, extremely detailed, ornate, cinematic lighting, vivid
+
+>Negativ Prompt
+
+*None
+
+![image](https://github.com/changsu705/AI_2025_01/blob/main/00001-3658578828.png?raw=true)
